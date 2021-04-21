@@ -38,7 +38,8 @@ First automatically pick the thr, then output the different evaluations.
 
 
 ### Misc
-`data_loader.py` : Help with manipulatiog files.
-`tools.py`: The definition of the metrics.
+
+* `data_loader.py` : Help with manipulatiog files.
+* `tools.py`: The definition of the metrics.
 
 
